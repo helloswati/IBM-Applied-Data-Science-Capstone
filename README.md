@@ -28,5 +28,5 @@ page_facing_up Methodology
 4. Performed interactive visual analytics using Folium and Plotly Dash
 5. Performed predictive analysis using classification models
 
-    Building, tuning and evaluation of classification models to ensure the best results
+    Building, tuning and evaluation of classification models to ensure the best results.
     

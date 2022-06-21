@@ -29,4 +29,3 @@ page_facing_up Methodology
 5. Performed predictive analysis using classification models
 
     Building, tuning and evaluation of classification models to ensure the best results.
-    
